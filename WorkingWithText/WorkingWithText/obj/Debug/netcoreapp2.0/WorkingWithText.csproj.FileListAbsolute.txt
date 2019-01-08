@@ -1,0 +1,11 @@
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\bin\Debug\netcoreapp2.0\WorkingWithText.deps.json
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\bin\Debug\netcoreapp2.0\WorkingWithText.runtimeconfig.json
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\bin\Debug\netcoreapp2.0\WorkingWithText.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\bin\Debug\netcoreapp2.0\WorkingWithText.dll
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\bin\Debug\netcoreapp2.0\WorkingWithText.pdb
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\obj\Debug\netcoreapp2.0\WorkingWithText.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\obj\Debug\netcoreapp2.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\obj\Debug\netcoreapp2.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\obj\Debug\netcoreapp2.0\WorkingWithText.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\obj\Debug\netcoreapp2.0\WorkingWithText.dll
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithText\WorkingWithText\obj\Debug\netcoreapp2.0\WorkingWithText.pdb

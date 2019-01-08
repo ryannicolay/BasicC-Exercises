@@ -1,0 +1,11 @@
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.0\ArraysAndLists.deps.json
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.0\ArraysAndLists.runtimeconfig.json
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.0\ArraysAndLists.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.0\ArraysAndLists.dll
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.0\ArraysAndLists.pdb
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.0\ArraysAndLists.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.0\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.0\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.0\ArraysAndLists.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.0\ArraysAndLists.dll
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.0\ArraysAndLists.pdb

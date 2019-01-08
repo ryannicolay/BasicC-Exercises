@@ -1,0 +1,11 @@
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.0\WorkingWithFiles.deps.json
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.0\WorkingWithFiles.runtimeconfig.json
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.0\WorkingWithFiles.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.0\WorkingWithFiles.dll
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp2.0\WorkingWithFiles.pdb
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.0\WorkingWithFiles.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.0\WorkingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.0\WorkingWithFiles.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.0\WorkingWithFiles.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.0\WorkingWithFiles.dll
+C:\Users\Ryan\Documents\Projects\BasicC#Exercises\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp2.0\WorkingWithFiles.pdb
